@@ -1,0 +1,10 @@
+**************rétouches de projet web:****************
+
+-select multiple (création de projet) (vuejs)
+-sous taches (vuejs) : anis
+-home.vue  de client
+-coté accessibilité (front) : société
+-si la tache a 100% avancement event deleted automatcly dans la calendar
+
+
+compte hazem : 44444444
